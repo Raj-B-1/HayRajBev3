@@ -56,11 +56,8 @@ This repository follows the TIER Protocol 4.0 to ensure transparency and reprodu
 - LICENSE.md  
 
 - SCRIPTS/  
-  - 01_download_data.ipynb – Jupyter Notebook used to download and unzip the image dataset (e.g., CNNDetection / GenImage subset).  
-  - 02_eda.ipynb – Exploratory data analysis (class balance, sample grids, basic statistics).  
-  - 03_preprocessing.ipynb – Image preprocessing (resizing, normalization, metadata creation).  
-  - 04_model_training.ipynb – CNN-based classifier training notebook (if used).  
-  - 05_visualizations.ipynb – Generates final plots and tables used in MI2/MI3.  
+  - 11-17(6).ipynb – Exploratory data analysis (class balance, sample grids, basic statistics).   
+  - Real_vs_Fake_Detector.ipynb – CNN-based classifier training notebook. 
 
 - DATA/  
   - raw/ – Original downloaded images (AI-generated and real).  
@@ -68,9 +65,8 @@ This repository follows the TIER Protocol 4.0 to ensure transparency and reprodu
   - metadata_README.md – Documentation for the data folder, including provenance and preprocessing notes.  
 
 - OUTPUT/  
-  - figures/ – EDA plots and model evaluation figures.  
-  - tables/ – CSVs with summary statistics and performance metrics.  
-  - model_artifacts/ – Saved model weights and logs (if applicable).  
+  - EDA/ – EDA plots and model evaluation figures.  
+  - Model Accuracy/ – CSV files with accuracy summaries, loss metrics, and evaluation results.
 
 Each folder contains a local README.md (where relevant) describing contents and usage.
 
