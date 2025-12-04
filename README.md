@@ -81,8 +81,8 @@ Each folder contains a local README.md (where relevant) describing contents and 
 Follow these steps in order to reproduce the project results.
 
 1. **Clone the repository and change directory**  
-   - `git clone https://github.com/your-username/HayRajBevAI.git`  
-   - `cd HayRajBevAI`
+   - `git clone https://github.com/your-username/HayRajBev3.git`  
+   - `cd HayRajBev3`
 
 2. **Set up environment**  
    - (Recommended) Create and activate a virtual environment.  
