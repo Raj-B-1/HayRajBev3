@@ -60,9 +60,7 @@ This repository follows the TIER Protocol 4.0 to ensure transparency and reprodu
   - Real_vs_Fake_Detector.ipynb – CNN-based classifier training notebook. 
 
 - DATA/  
-  - raw/ – Original downloaded images (AI-generated and real).  
-  - processed/ – Preprocessed images and metadata (e.g., splits, resized versions).  
-  - metadata_README.md – Documentation for the data folder, including provenance and preprocessing notes.  
+  - Link to Dataset.pdf/ – Original downloaded images (AI-generated and real).  
 
 - OUTPUT/  
   - EDA/ – EDA plots and model evaluation figures.  
